@@ -603,3 +603,5 @@ contract LineOfCredit is ILineOfCredit, MutualConsent {
 
 // test comment Bob
 // new test comments
+// even newer test comments
+// the newest
